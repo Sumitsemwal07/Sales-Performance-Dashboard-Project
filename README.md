@@ -5,10 +5,10 @@ This project is an end-to-end State-Wise Sales Dashboard built in Excel.
 It transforms raw sales data into a fully interactive dashboard using pivot tables, KPIs, slicers, and automated visual insights.
 
 📂 What the Project Includes:
-Raw Data → Cleaned Data (missing values handled, formats corrected, duplicates removed)
-Pivot Tables & Pivot Charts for sales, targets, achievements
-State Slicers to switch between cities like Mumbai, Delhi, Pune, Nagpur, Ranchi, Surat, etc.
-Executive-wise Sales Performance with daily totals
+Raw Data → Cleaned Data (missing values handled, formats corrected, duplicates removed)/
+Pivot Tables & Pivot Charts for sales, targets, achievements/
+State Slicers to switch between cities like Mumbai, Delhi, Pune, Nagpur, Ranchi, Surat, etc/
+Executive-wise Sales Performance with daily totals/
 
 KPIs:
 Total Sales
