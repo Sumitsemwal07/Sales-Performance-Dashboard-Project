@@ -39,4 +39,8 @@ Fast decision-making using slicers and visuals.
 
 📁 Files Included
 
-Sales Dashboard File.
+SalesDashboardProject.xlsm
+Screenshot1.2.png
+Screeshot1.1.png
+Screeshot1.3.png
+Video1.mp4
