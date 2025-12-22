@@ -40,9 +40,14 @@ Fast decision-making using slicers and visuals.
 
 
 # Files Included:
+README.md
 
+Raw data + insights:
 SalesDashboardProject.xlsm
+
+Dashboard:
+Dashboard-overview.png
 Screenshot1.2.png
 Screeshot1.1.png
 Screeshot1.3.png
-Video1.mp4.
+Video1.mp4
