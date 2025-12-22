@@ -1,4 +1,4 @@
-# "Excel Sales Dashboard Project"
+# "Excel Sales Performance Dashboard Project"
 
 # 📌 Overview:
 This project is an end-to-end State-Wise Sales Dashboard built in Excel. 
