@@ -1,6 +1,6 @@
 # "Excel Sales Performance Dashboard Project"
 
-# 📌 Overview:
+# Overview:
 This project is an end-to-end State-Wise Sales Dashboard built in Excel. 
 It transforms raw sales data into a fully interactive dashboard using pivot tables, KPIs, slicers, and automated visual insights.
 
